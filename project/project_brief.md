@@ -44,8 +44,8 @@ Want some support on the challenge? Trainers are on-hand to support you but we a
 
 ## Preparing For Your Presentation
 
-**Presentation Start Time**: 2:00pm (please come to the main space at 1.55pm)
-**Presentation Duration**: 10 minutes per group (7 minute presentation, 3 minutes for questions)
+- **Presentation Start Time**: 2:00pm (please come to the main space at 1.55pm)
+- **Presentation Duration**: 10 minutes per group (7 minute presentation, 3 minutes for questions)
 
 Please don't go over 7 minutes for your presentation.
 
