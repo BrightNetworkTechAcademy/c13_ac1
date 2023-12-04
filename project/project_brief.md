@@ -30,7 +30,7 @@ Important note: Once you install Live Share, restart VSCode as the plugin will o
 
 Another Visual Studio Code extension you may find useful is Live Server. This extension is used to allow the Live Share host to share their local server with all of the collaborators—allowing all workers to view the HTML webpage in the browser as if stored locally. For a short introduction to Live Server and how to set-up hot browser reloading (reloading upon saving of code), please watch this short 3 min video: https://www.youtube.com/watch?v=y4qqQeUDCBQ
 
-Support
+### Support
 Want some support on the challenge? Trainers are on-hand to support you but we advise you follow the process of Brain, Book, Buddy, Boss (in this case trainer) so that you first attempt to solve the problem yourself or as a team. Try to help each other and if you're still stuck, a trainer will be available to help.
 
 
